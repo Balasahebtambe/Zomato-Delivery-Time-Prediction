@@ -1,8 +1,5 @@
 # Zomato-Delivery-Time-Prediction
 Zomato Delivery Time Prediction  This project predicts Zomato delivery times using machine learning. It includes data preprocessing, EDA, feature engineering, model selection, and evaluation. Enhance customer satisfaction and operational efficiency with accurate delivery time estimates. Explore, run, and contribute!
-# Zomato Delivery Time Prediction
-
-Welcome to the Zomato Delivery Time Prediction repository! This project aims to predict the delivery times for Zomato orders using various machine learning techniques. The goal is to provide accurate delivery time estimates to improve customer experience and optimize delivery operations.
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -69,7 +66,7 @@ This section summarizes the key findings, discusses the implications, and sugges
 ## How to Run
 
 To run the project, follow these steps:
-1. Clone the repository: `git clone https://github.com/your-username/zomato-delivery-time-prediction.git`
+1. Clone the repository: `git clone https://github.com/Balasahebtambe/zomato-delivery-time-prediction.git`
 2. Install the required dependencies: `pip install -r requirements.txt`
 3. Run the Jupyter notebooks: `jupyter notebook`
 
